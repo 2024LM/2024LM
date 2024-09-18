@@ -1,0 +1,12 @@
+kivy.lang.Builder
+kivymd.app.MDApp
+kivymd.uix.label.MDLabel
+kivymd.uix.button.MDRaisedButton
+kivymd.uix.boxlayout.BoxLayout
+kivy.uix.screenmanager.Screen & ScreenManager
+kivy.clock.Clock
+webbrowser
+requests
+BeautifulSoup
+urllib.parse.urljoin
+PIL (Pillow)
